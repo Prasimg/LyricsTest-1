@@ -3,7 +3,7 @@ import Typed from "react-typed";
 
 const Hero = () => {
     return (
-        <div className="text-white">
+        <div className="text-white" id="main">
             <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
                 <p className="text-[#00df8c] font-bold p-3">
                     What does that K-POP song's lyrics mean??
